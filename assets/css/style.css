@@ -1472,8 +1472,7 @@ section {
 }
 @media screen and (max-width: 600px) {
   .column {
-    width: 100%;
-    height: 100%;
+    width: 200%;
   }
 }
 .contents {
@@ -1520,4 +1519,5 @@ section {
   border: none;
   font-size: 16px;
   cursor: pointer;
-}
+}    width: 100%;
+    height: 100%;
