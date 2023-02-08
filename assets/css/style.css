@@ -730,6 +730,10 @@ section {
   margin-bottom: 0;
   text-align: center;
 }
+.description-solo {
+  font-size: 1.7vw;
+  text-align: center;
+}
 
 .services .icon-box:hover .title a,
 .services .icon-box:hover .description {
