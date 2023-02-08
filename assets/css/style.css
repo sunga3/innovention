@@ -731,7 +731,9 @@ section {
   text-align: center;
 }
 .description-solo {
-  font-size: 1.7vw;
+  font-size:15px;
+  padding-left: 20px;
+  padding-right: 25px;
   text-align: center;
 }
 
