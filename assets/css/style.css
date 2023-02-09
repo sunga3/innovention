@@ -1480,9 +1480,6 @@ section {
   .column {
     width: 200%;
   }
-  .videos {
-    padding-left: 10px;
-  }
 }
 .contents {
   text-align: center;
