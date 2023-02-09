@@ -1480,6 +1480,9 @@ section {
   .column {
     width: 200%;
   }
+  .vid {
+    width: 100%;
+  }
 }
 .contents {
   text-align: center;
@@ -1529,4 +1532,16 @@ section {
 }  
 .video-container {
   padding-top: 4em;
+}
+.videosed {
+  width:"430"; 
+  height:"315" 
+}
+
+.contain {
+  padding: 5%;
+}
+.vid {
+  width: 500; 
+  height: 415;
 }
