@@ -1541,3 +1541,16 @@ section {
   width: 200; 
   height: 120;
 }
+
+.new-button {
+  font-size: 24px;
+  display: inline-block;
+  padding: 4px 0;
+  border-radius: 50px;
+  margin: 10px;
+  width: 150px;
+  height: 55px;
+  text-align: center;
+  border: 2px solid #fff;
+  color: #fff;
+}
