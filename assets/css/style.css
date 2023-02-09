@@ -1554,3 +1554,8 @@ section {
   border: 2px solid #fff;
   color: #fff;
 }
+
+.link-button {
+  background-color: transparent;
+  border: none;
+}
