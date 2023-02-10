@@ -1543,12 +1543,12 @@ section {
 }
 
 .new-button {
-  font-size: 30px;
+  font-size: 24px;
   display: inline-block;
   padding: 10px 20px;
   border-radius: 50px;
   margin: 10px;
-  width: 200px;
+  width: 180px;
   height: 55px;
   text-align: center;
   border: 2px solid #fff;
