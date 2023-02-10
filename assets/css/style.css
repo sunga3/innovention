@@ -1485,6 +1485,7 @@ section {
   margin: auto;
   width: 50%;
   padding: 10px;
+  z-index: 1;
 }
 .imaged {
  
@@ -1492,6 +1493,7 @@ section {
   justify-content: center;
   align-items: left;
   flex-direction: column;
+  z-index: 0;
 }
 
 .row:after {
